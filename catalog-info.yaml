@@ -3,6 +3,6 @@ kind: Location
 metadata:
   name: monorepo
 spec:
-  type: file
+  type: url
   targets:
-    - 'serviceA/backstage.yaml'
+    - ../serviceA/backstage.yaml
