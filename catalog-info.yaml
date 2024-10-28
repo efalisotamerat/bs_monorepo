@@ -5,4 +5,4 @@ metadata:
 spec:
   type: file
   targets:
-    - ./serviceA/backstage.yaml
+    - 'serviceA/backstage.yaml'
