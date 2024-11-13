@@ -1,10 +1,9 @@
-# site_name: "mirai-libraries"
+site_name: "mirai-libraries"
 
-# nav:
-#   - Intro: 'index.md'
-#   - Libraries:
-#       - Test: '!include ./serviceA/mkdocs.yml'
+nav:
+  - Libraries:
+      - TestLibraryFromMainMkDocs: '!include ./serviceA/mkdocs.yml'
 
-# plugins:
-#   - techdocs-core
-#   - monorepo
+plugins:
+  - techdocs-core
+  - monorepo
