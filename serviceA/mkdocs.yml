@@ -1,7 +1,6 @@
-site_name: "mirai-lib-backgroundable"
-site_description: "This library provides configuration and annotations to run methods the background. Use this library if you need to run methods in the background."
+site_name: "test"
+
 nav:
   - Intro: index.md
   - FAQ: faq.md
-plugins:
-  - techdocs-core
+  
