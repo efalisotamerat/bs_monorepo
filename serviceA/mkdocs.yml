@@ -3,4 +3,6 @@ site_name: "test"
 nav:
   - Intro: index.md
   - FAQ: faq.md
-  
+
+plugins:
+  - techdocs-core
