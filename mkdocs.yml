@@ -6,4 +6,5 @@ nav:
       - Test: '!include ./serviceA/mkdocs.yml'
 
 plugins:
+  - techdocs-core
   - monorepo
