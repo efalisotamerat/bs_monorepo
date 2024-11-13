@@ -1,0 +1,7 @@
+site_name: "mirai-client-lib-myteam"
+site_description: "This library provides a REST API that can be extended for managing MyTeam domains."
+nav:
+  - Intro: index.md
+  - FAQ: faq.md
+plugins:
+  - techdocs-core

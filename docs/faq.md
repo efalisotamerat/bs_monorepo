@@ -1,0 +1,1 @@
+# FAQ about client-myteam
