@@ -1,9 +1,4 @@
 site_name: "mirai-libraries"
 
-nav:
-  - Libraries:
-      - TestLibraryFromMainMkDocs: '!include ./serviceA/mkdocs.yml'
-
 plugins:
   - techdocs-core
-  - monorepo
